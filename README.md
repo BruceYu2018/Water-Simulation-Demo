@@ -16,7 +16,7 @@ The main testing scence shown in the picture is in the folder Assets/demo/Integr
 
 [3] Interactive Water Surfaces, http://jerrytessendorf.blogspot.co.uk/2011/10/interactive-water-surfaces-jerry.html
 
-Part of Codes reused from
+Part of Codes reused from:
 
 [4] http://www.habrador.com/tutorials/water-wakes/2-water-wakes/
 
